@@ -1,4 +1,5 @@
 #Funkcje pomocnie - wyrazenia regularne
+
 import re  # import modulu wyrazen regularnych
 
 def czy_jest_liczba(s):
